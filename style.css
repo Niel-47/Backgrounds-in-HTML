@@ -1,0 +1,52 @@
+#p1 {
+
+    height: 50px;
+    background: linear-gradient(red, orange );
+
+}
+
+#p2{
+
+height: 50px;
+background: linear-gradient(orange, yellow);
+
+
+}
+#p3{
+
+height: 50px;
+background: linear-gradient(yellow, green) ;
+
+
+}
+
+#p4 {
+
+    height: 50px;
+    background: linear-gradient(green, blue);
+
+
+}
+
+#p5 {
+
+    height: 50px;
+    background: linear-gradient(blue, indigo);
+
+
+}
+#p6 {
+
+    height: 50px;
+    background: linear-gradient(indigo, violet);
+
+
+}
+
+#p7 {
+
+    height: 500px;
+    background: radial-gradient(violet, indigo, blue, green, yellow, orange, red);
+
+
+}
